@@ -9,7 +9,7 @@ Cada checklist contém uma série de ações sugeridas para os diferentes perfis
 - [Checklist do Meetup](checklists/meetup.md)
 - [Checklist do Organizador](checklists/organizer.md)
 - [Checklist do Host](checklists/host.md)
-- [Checklist do Apresentador](checklists/presenters.md)
+- [Checklist do Apresentador](checklists/presenter.md)
 
 ## Sobre o Elug CE
 
