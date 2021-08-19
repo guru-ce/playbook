@@ -1,6 +1,6 @@
-# Playbook Elug CE
+# Playbook Guru-CE
 
-Este playbook fornece guias e checklists para ajudar na organização do Elug CE, e informações para membros interessados em contribuir para os meetups com apresentações, talks e/ou workshops.
+Este playbook fornece guias e checklists para ajudar na organização do Guru-CE, e informações para membros interessados em contribuir para os meetups com apresentações, talks e/ou workshops.
 
 ## Checklists
 
@@ -23,15 +23,20 @@ Cada checklist contém uma série de ações sugeridas para os diferentes perfis
   - **[Apresentação](templates/presentation.marp.md)**  
      _Template de apresentação completo_
 
-## Sobre o Elug CE
+## Sobre o Guru-CE
 
-O Elixir User Group CE (Grupo de Usuários Elixir do Ceará) é um grupo de usuários da linguagem de programção funcional Elixir. Somos um grupo de aficcionados por programação funcional, e organizamos eventualmente atividades como encontros e meetups para compartilhar conhecimento, fazer networking ou mesmo fazer um social.
+O Grupo de Usuários de Ruby do Ceará foi fundado em 31 de março de 2010 com os moldes do primeiro GURU, que foi o GURU-SP. O grupo iniciou a partir de uma lista de discussão. Atualmente estamos presentes principalmente no nosso canal do Telegram: https://t.me/guru_ce.
+
+Temos como objetivos:
+* Divulgar e promover a linguagem de programação Ruby e seu ecossistema na cidade de Fortaleza e imediações através de eventos como palestras, discussões, apresentações de projetos e afins;
+* Fazer reuniões presenciais ou virtuais entre os membros do grupo para que estes possam discutir, ensinar e aprender sobre a linguagem Ruby e aspectos relacionados a programação e desenvolvimento de software;
+* O grupo é composto por pessoas que estejam interessadas em ensinar, aprender e evoluir no aprendizado da linguagem Ruby e do desenvolvimento de software em geral;
 
 Nos encontramos virtualmente no [Telegram](https://t.me/elug_ce). Também estamos no [Facebook](https://fb.com/elugce), [Instagram](https://www.instagram.com/elug_ce) e [Twitter](https://twitter.com/elug_ce).
 
 ## Licença
 
-[Elug CE Playbook](https://github.com/elug-ce/playbook) por [Elug CE](https://elug-ce.github.io) é licenciado sob a licença [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
+[Guru-CE Playbook](https://github.com/guru-ce/playbook) por [Guru-CE](https://guru-ce.github.io) é licenciado sob a licença [CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0/).
 
 **Attributions**
 
