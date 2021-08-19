@@ -32,7 +32,7 @@ Temos como objetivos:
 * Fazer reuniões presenciais ou virtuais entre os membros do grupo para que estes possam discutir, ensinar e aprender sobre a linguagem Ruby e aspectos relacionados a programação e desenvolvimento de software;
 * O grupo é composto por pessoas que estejam interessadas em ensinar, aprender e evoluir no aprendizado da linguagem Ruby e do desenvolvimento de software em geral;
 
-Nos encontramos virtualmente no [Telegram](https://t.me/elug_ce). Também estamos no [Facebook](https://fb.com/elugce), [Instagram](https://www.instagram.com/elug_ce) e [Twitter](https://twitter.com/elug_ce).
+Nos encontramos virtualmente no [Telegram](https://t.me/guru_ce) e no [Twitter](https://twitter.com/guruce).
 
 ## Licença
 
