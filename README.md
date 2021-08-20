@@ -15,14 +15,6 @@ Cada checklist contém uma série de ações sugeridas para os diferentes perfis
   - **[Checklist do Apresentador](checklists/presenter.md)**  
     _Uma lista de tarefas para quem quer apresentar conteúdo nos nossos meetups_
 
-## Templates
-
-- **Marp**
-  - **[Meetup](templates/meetup.marp.md)**  
-     _Slides de abertura e fechamento do evento_
-  - **[Apresentação](templates/presentation.marp.md)**  
-     _Template de apresentação completo_
-
 ## Sobre o Guru-CE
 
 O Grupo de Usuários de Ruby do Ceará foi fundado em 31 de março de 2010 com os moldes do primeiro GURU, que foi o GURU-SP. O grupo iniciou a partir de uma lista de discussão. Atualmente estamos presentes principalmente no nosso canal do Telegram: https://t.me/guru_ce.

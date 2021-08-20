@@ -1,6 +1,6 @@
 # Checklist do Organizador
 
-> _Nota: devido à pandemia COVID-19, as edições do Meetup Elug CE seguem com um formato online e estrutura padronizada. Devido a isso, alguns itens abaixo estarão marcados como concluído._
+> _Nota: devido à pandemia COVID-19, as edições do Guru-CE seguem com um formato online. Devido a isso, alguns itens abaixo estarão marcados como concluído._
 >
 > _Confira a estrutura padronização dos eventos na [Checklist do Meetup](meetup.md)._
 
